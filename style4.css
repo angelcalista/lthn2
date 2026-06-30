@@ -219,14 +219,14 @@ main {
 }
 
 .profile-quote {
-    margin-top: 20px !important;
-    padding: 14px 18px !important;
+    margin-top: 20px;
+    padding: 14px 18px;
     border-left: 3px solid #ff4f95;
     background: #fff5fa;
     border-radius: 0 10px 10px 0;
     font-style: italic;
     color: #888;
-    border-bottom: none !important;
+    border-bottom: none;
 }
 
 #gallery {
@@ -330,7 +330,7 @@ main {
 }
 
 #guestbook {
-    max-width: 1200px;
+    max-width: 1160px;
     margin: 40px auto;
     padding: 80px 20px;
     background: #ffffff;
